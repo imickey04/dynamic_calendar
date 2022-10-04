@@ -122,3 +122,10 @@ header .current-date {
 .days li:hover::before {
     background: #f2f2f2;
 }
+
+#nameTag {
+    margin: 0 0 0 35px;
+    font-size: small;
+    font-weight: lighter;
+    color: #aaa;
+}
